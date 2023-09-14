@@ -1,2 +1,2 @@
-# dohmyessayer.github.io
-I do essays!
+# Dohmy Essayer!
+I do essays, citations, and more!
